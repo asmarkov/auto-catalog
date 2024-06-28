@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auto-catalog>
+  <offers>
+    <offer>
+      <id>359039</id>
+      <mark>ГАЗ</mark>
+      <model>13 «Чайка»</model>
+      <generation>(1959-1981)</generation>
+      <year>1968</year>
+      <run>1453</run>
+      <color>Белый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>20351648</generation_id>
+    </offer>
+    <offer>
+      <id>402501</id>
+      <mark>Волжанин</mark>
+      <model>5285</model>
+      <generation></generation>
+      <year>2012</year>
+      <run>192500</run>
+      <color>Зеленый</color>
+      <body-type>Специальный</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id></generation_id>
+    </offer>
+    <offer>
+      <id>412873</id>
+      <mark>Honda</mark>
+      <model>CR-V</model>
+      <generation>V (2016-2022)</generation>
+      <year>2017</year>
+      <run>47751</run>
+      <color>Серебристый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Вариатор</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20875803</generation_id>
+    </offer>
+    <offer>
+      <id>415531</id>
+      <mark>Kia</mark>
+      <model>Cerato</model>
+      <generation>IV (2018-2021)</generation>
+      <year>2020</year>
+      <run>43009</run>
+      <color>Черный</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>21383450</generation_id>
+    </offer>
+    <offer>
+      <id>418415</id>
+      <mark>Porsche</mark>
+      <model>Boxster</model>
+      <generation>III (981) (2012-2016)</generation>
+      <year>2013</year>
+      <run>16102</run>
+      <color>Коричневый</color>
+      <body-type>Родстер</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>8283150</generation_id>
+    </offer>
+    <offer>
+      <id>419842</id>
+      <mark>Mercedes</mark>
+      <model>GLA</model>
+      <generation>I (X156) (2013-2017)</generation>
+      <year>2014</year>
+      <run>94500</run>
+      <color>Красный</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>20090323</generation_id>
+    </offer>
+    <offer>
+      <id>420703</id>
+      <mark>Audi</mark>
+      <model>A6</model>
+      <generation>IV (C7) Рестайлинг (2014-2018)</generation>
+      <year>2016</year>
+      <run>144000</run>
+      <color>Черный</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>20246005</generation_id>
+    </offer>
+    <offer>
+      <id>421394</id>
+      <mark>Kia</mark>
+      <model>Seltos</model>
+      <generation>I (2019-2022)</generation>
+      <year>2021</year>
+      <run>14114</run>
+      <color>Синий</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>21662520</generation_id>
+    </offer>
+    <offer>
+      <id>422031</id>
+      <mark>Volkswagen</mark>
+      <model>Jetta</model>
+      <generation>I (1978-1984)</generation>
+      <year>1981</year>
+      <run>233111</run>
+      <color>Зеленый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Передний</gear-type>
+      <generation_id>3493006</generation_id>
+    </offer>
+    <offer>
+      <id>424231</id>
+      <mark>Land Rover</mark>
+      <model>Defender</model>
+      <generation>II (2019-2022)</generation>
+      <year>2020</year>
+      <run>9282</run>
+      <color>Зеленый</color>
+      <body-type>Внедорожник 5 дв.</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Полный</gear-type>
+      <generation_id>21667063</generation_id>
+    </offer>
+  </offers>
+</auto-catalog>

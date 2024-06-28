@@ -1,0 +1,25 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasMany;
+
+class Mark extends Model
+{
+    public $timestamps = false;
+
+    protected $fillable = [
+        'name'
+    ];
+
+    public function carOffer(): HasMany
+    {
+        return $this->hasMany(CarOffer::class);
+    }
+
+    public function model(): HasMany
+    {
+        return $this->hasMany(Model::class);
+    }
+}
